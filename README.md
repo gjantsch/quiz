@@ -9,13 +9,14 @@ escolher sempre a segunda opção pr exemplo.
 + Permite persistir os dados do objeto, facilitando a implementação de um cache, evitando ter que ler ou acessar a fonte das questões toda vez que utilizar.
 + Verificação das respostas fornecidas.
 
-Em caso de empate na verificação dos resultados, é selecionada a questão que foi escolhida por último pelo usuário como vencedora.
+Em caso de empate na verificação dos resultados, é vencedora a questão que foi escolhida por último pelo usuário.
 
 ## Iniciando
 Essas instruções vão auxiliar você no processo de instalação da versão de demonstração no seu servidor.
 
 ### Pré-requisitos
 O código atual requer PHP 5.4 ou superior e módulo *simplexml* instalado.
+Os testes phpUnit requerem a versão 5.6.30 ou superior.
 
 ### Instalação Demonstração
 Para instalar o demo, basta você copiar todos os arquivos do repositório em um diretório vazio do servidor com suporte a PHP 5.4 ou superior.
