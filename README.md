@@ -11,6 +11,10 @@ escolher sempre a segunda opção pr exemplo.
 
 Em caso de empate na verificação dos resultados, é vencedora a questão que foi escolhida por último pelo usuário.
 
+A interface da demonstração é bastante simples, o foco aqui é demonstrar a facilidade de uso da classe. 
+
+Todas as modificações feitas na classe podem ser validadas com os testes do phpUnit, eles não contemplam todo cenário possível de falhas mas garantem que as respostas estão sendo computadas corretamente e que as validações básicas sejam executadas. Não esqueça de modificá-los caso seja necessário.
+
 ## Iniciando
 Essas instruções vão auxiliar você no processo de instalação da versão de demonstração no seu servidor.
 
