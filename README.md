@@ -1,5 +1,5 @@
 # quiz
-Quiz é uma classe PHP para exibição e verificação de testes de personalidade de multipla opção onde a resposta é computada a partir das opções selecionada.
+Quiz é uma classe PHP para exibição e verificação de testes de personalidade de multipla opção onde a resposta é computada a partir das opções selecionadas.
 
 Principais características:
 + Suporte a armazenamento de questões em arquivo XML ou array associativo.
