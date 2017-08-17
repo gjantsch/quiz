@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+    <questions>
+        <question>
+            <text>De manhã, você:</text>
+            <options>
+                <option>Acorda cedo e come frutas cortadas metodicamente.</option>
+                <option>Sai da cama com o despertador e se prepara para a batalha da semana.</option>
+                <option>Levanta e faz café pra todos da casa.</option>
+                <option>Passa o café e conserta um erro no HTML.</option>
+            </options>
+        </question>
+        <question>
+            <text>Indo para o trabalho você encontra uma senhora idosa caída na rua.</text>
+            <options>
+                <option>Ela vai atrapalhar seu horário. Oculte o corpo.</option>
+                <option>Levanta a senhora e jura protegê-la com sua vida.</option>
+                <option>Ajuda-a, mas questiona sua real identidade.</option>
+                <option>Oferece para caminharem juntos até um destino em comum.</option>
+                <option>Testa se ela roda bem no Firefox. Não roda.</option>
+            </options>
+        </question>
+        <question>
+            <text>Chega no prédio e o elevador está cheio.</text>
+            <options>
+                <option>Convence parte das pessoas a esperarem o próximo.</option>
+                <option>Ignora as pessoas no elevador e entra de qualquer forma. </option>
+                <option>Você questiona a realidade, as coisas e tudo mais. Sobe de escada. </option>
+                <option>Com uma leve intimidação passivo-agressiva, encontra um lugar no elevador.</option>
+                <option> Cria um app que mostra a lotação do elevador. Vende o app e fica milionário. </option>
+            </options>
+        </question>
+        <question>
+            <text>Você chega no trabalho e as convenções sociais te obrigam a puxar assunto. </text>
+            <options>
+                <option>Fala sobre a política, eleições, como tudo é um absurdo. </option>
+                <option>Larga uma frase polêmica e vê uma pequena guerra se formar. </option>
+                <option>Puxa um assunto e te lembram que já foi discutido semana passada. </option>
+                <option>Sugere que os colegas trabalhem na ideia de um novo projeto. </option>
+                <option>Desabafa sobre como odeia PHP. Todo mundo na sala adora PHP.</option>
+            </options>
+        </question>
+        <question>
+            <text>A pauta pegou o dia todo, mas você está indo para casa. </text>
+            <options>
+                <option>Vou chamar aqui o meu Uber. </option>
+                <option>Pegarei o bus junto com o resto do povo. </option>
+                <option>No ponto de ônibus mais uma vez, espero não errar a linha de novo. </option>
+                <option>Vou de carro, mas ofereço uma carona para os colegas. </option>
+                <option>Acho que descobri uma forma de fazer aquela senhora rodar no Firefox.</option>
+            </options>
+        </question>
+    </questions>
+
+</document>
