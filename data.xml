@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <document>
-    <questions>
+    <questions answer="1">
         <question>
             <text>De manhã, você:</text>
             <options>

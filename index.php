@@ -55,7 +55,7 @@
 
         } else {
             $q = new Quiz("data.xml");
-            $q->shuffleQuestions(5);
+            // $q->shuffleQuestions(5);
             $q->shuffleOptions();
             // persiste estado do objeto na sessão
             $_SESSION["QUIZ_CACHE"] = $q->getSerializedData();
